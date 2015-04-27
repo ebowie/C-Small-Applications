@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1350967509 source:c:\users\qwerty\desktop\nestedloop2\main.cpp
+	<iostream>
+	<iomanip>
+

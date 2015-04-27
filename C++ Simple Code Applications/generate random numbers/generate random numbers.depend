@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1349727992 source:c:\users\qwerty\desktop\generate random numbers\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

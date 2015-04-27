@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1350965060 source:c:\users\qwerty\desktop\forloopsagain\main.cpp
+	<iostream>
+	<iomanip>
+
